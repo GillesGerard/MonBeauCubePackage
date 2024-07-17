@@ -489,15 +489,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mon Magnifique Cube
       objectReference: {fileID: 0}
-    - target: {fileID: 8728694456107373458, guid: f2dc912210831064895fcc1dd42b2531,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: -876546973899608171, guid: 30fa68ce467463643a86b839ca0eb195,
-        type: 3}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: -7982068780706119857, guid: f2dc912210831064895fcc1dd42b2531, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2dc912210831064895fcc1dd42b2531, type: 3}

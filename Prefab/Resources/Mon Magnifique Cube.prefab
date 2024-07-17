@@ -9,6 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1625944411970495983}
+  - component: {fileID: 6413132547993134313}
+  - component: {fileID: 1135068949622409768}
+  - component: {fileID: 8698817675998055492}
   m_Layer: 0
   m_Name: Mon Magnifique Cube
   m_TagString: Untagged
@@ -32,6 +35,49 @@ Transform:
   - {fileID: 7532183475405082858}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6413132547993134313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932058112262528528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f6b0e2be14487498b2845eab879b67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_firstName: Gilles
+  m_lastName: "G\xE9rard"
+  m_portfolioUrl: https://www.youtube.com/@eloistreeraw
+  m_githubUrl: https://github.com/EloiStree?tab=repositories
+  m_linkedinUrl: https://www.linkedin.com/in/eloistree
+--- !u!114 &1135068949622409768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932058112262528528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd5a90e922b18454486c7cca6c899e7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_cubeRoot: {fileID: 1625944411970495983}
+--- !u!114 &8698817675998055492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932058112262528528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982766e3044ddb147a0d138e93e5638e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_guid: 78f4aa04-ad1c-43c3-8be3-a7ee05334b49
 --- !u!1 &4567321247792953502
 GameObject:
   m_ObjectHideFlags: 0
