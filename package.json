@@ -1,0 +1,17 @@
+{
+  "name": "be.gger.monbeaucube",
+  "version": "1.1.1",
+  "displayName": "Mon Beau Cube",
+  "description": "Ceci est un cube",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Gilles Gerard",
+    "email": "geragilles@gmail.com",
+    "url": "https://yourcompany.com/"
+  }
+
+}
